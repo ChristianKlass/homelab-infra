@@ -1,0 +1,11 @@
+ansible/inventory_sources/proxmox.json
+ansible/inventory_sources/proxmox.proxmox.yml
+*.pyc
+.env
+.vault_pass
+
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfvars
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
